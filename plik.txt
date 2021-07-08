@@ -1,1 +1,2 @@
-To jest plik tekstowy
+To jest plik tekstowy.
+Plik został właśnie wyedytowany.
